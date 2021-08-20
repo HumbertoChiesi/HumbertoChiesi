@@ -1,6 +1,6 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoChiesi&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoChiesi&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoChiesi&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
