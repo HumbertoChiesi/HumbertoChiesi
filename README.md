@@ -2,9 +2,12 @@
 
 <div>
   <a href="https://github.com/HumbertoChiesi">
-  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=HumbertoChiesi" />
+  <img height="180em" src"[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoChiesi)](https://github.com/anuraghazra/github-readme-stats)
+" />
   <img height="180em" src"https://github-readme-stats.vercel.app/api?username=HumbertoChiesi&hide=contribs" />
 </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoChiesi)](https://github.com/HumbertoChiesi/github-readme-stats)
+
 
 <!--
 **HumbertoChiesi/HumbertoChiesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
